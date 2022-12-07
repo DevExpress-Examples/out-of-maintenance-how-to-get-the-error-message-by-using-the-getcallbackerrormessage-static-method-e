@@ -1,6 +1,6 @@
 ﻿Imports System
 Imports System.Web.UI
-Imports DevExpress.Web.ASPxClasses
+Imports DevExpress.Web
 
 Partial Public Class [Error]
     Inherits Page

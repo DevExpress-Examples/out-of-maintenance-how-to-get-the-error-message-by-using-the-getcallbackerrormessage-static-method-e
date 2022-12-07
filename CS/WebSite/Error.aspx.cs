@@ -1,6 +1,6 @@
 using System;
 using System.Web.UI;
-using DevExpress.Web.ASPxClasses;
+using DevExpress.Web;
 
 public partial class Error : Page {
     protected void Page_Load(object sender, EventArgs e) {
